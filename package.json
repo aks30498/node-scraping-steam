@@ -1,0 +1,23 @@
+{
+  "name": "scraping-steam",
+  "version": "1.0.0",
+  "description": "Getting my hands dirty on data scraping using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aks30498/node-scraping-steam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aks30498/node-scraping-steam/issues"
+  },
+  "homepage": "https://github.com/aks30498/node-scraping-steam#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0"
+  }
+}
